@@ -1,0 +1,9 @@
+# Copy to terraform.tfvars and edit.
+alert_email = "you@example.com"
+
+# Optional: create the Lambda that scales up the recovery region on failure
+# enable_lambda = true
+
+# Optional: real DNS failover (needs a domain you own with a Route 53 hosted zone)
+# hosted_zone_id = "Z0123456789ABC"
+# record_name    = "app.example.com"

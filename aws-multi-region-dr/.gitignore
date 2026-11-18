@@ -1,0 +1,8 @@
+*.pem
+*.key
+.env
+.aws/
+credentials
+*.tfstate
+*.tfstate.*
+.DS_Store
