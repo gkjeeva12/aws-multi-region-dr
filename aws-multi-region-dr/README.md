@@ -146,5 +146,4 @@ terraform apply
 ## Cleanup
 See [docs/cleanup.md](docs/cleanup.md). Load balancers and EC2 instances incur charges while they exist.
 
-## Author
-G K Jeeva
+
